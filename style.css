@@ -30,6 +30,13 @@ p {
   letter-spacing: 2px;
 }
 
+.para {
+  color: white;
+  font-size: 35px;
+  margin-top: 15px;
+}
+
+
 
 .butt {
   width: fit-content;

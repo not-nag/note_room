@@ -45,6 +45,12 @@ a:active{
   text-decoration: underline;
 }
 
+.superscript{
+  font-size: 15px;
+  color: yellow;
+  padding-left: 0%;
+}
+
 p{
    
   font-weight: 700;
